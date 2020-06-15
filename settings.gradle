@@ -1,0 +1,2 @@
+include ':fido', ':wallet', ':sodium', ':crypto'
+rootProject.name='iton.fido'
