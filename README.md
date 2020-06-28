@@ -1,4 +1,4 @@
-# ssido-client
+# Self-Sovereign IDentity Online (SSIDO)
 
 Self-Sovereign IDentity Online (SSIDO) is an online passwordless authentication solution for any SSI entity (person, organization or IoT device) in both mobile and desktop environments.
 
